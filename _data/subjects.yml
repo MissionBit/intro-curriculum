@@ -1,0 +1,12 @@
+- slug: setup
+  name: Setup and Introduction
+- slug: html
+  name: HTML and CSS
+- slug: javascript
+  name: Interactivity with JavaScript
+- slug: canvas
+  name: Canvas and Drawing
+- slug: phaser
+  name: Game Development with Phaser
+- slug: api
+  name: APIs
