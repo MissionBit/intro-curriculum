@@ -1,0 +1,29 @@
+svg {
+    stroke: none;
+    width: 500px;
+    height: 500px;
+}
+
+#logo-center {
+    position: absolute;
+    top: 80px;
+    left: 10px;
+}
+
+#logo-top-left {
+    position: absolute;
+    top: 72px;
+    left: 220px;
+}
+
+#logo-top-right {
+    position: absolute;
+    top: 200px;
+    left: 188px;
+}
+
+#logo-bottom {
+    position: absolute;
+    top: 123px;
+    left: 432px;
+}

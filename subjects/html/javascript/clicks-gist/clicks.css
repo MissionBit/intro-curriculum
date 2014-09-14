@@ -1,0 +1,12 @@
+h1.clicked {
+    color: darksalmon;
+}
+img.logo {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 128px;
+    height: 128px;
+    margin-left: -64px;
+    margin-top: -64px;
+}

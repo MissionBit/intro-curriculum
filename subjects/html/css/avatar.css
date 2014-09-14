@@ -1,0 +1,95 @@
+/*
+
+Resources:
+
+Learn more about colors here:
+- https://developer.mozilla.org/en-US/docs/Web/CSS/color_value
+
+Having trouble with overriding rules? Learn about CSS specificity:
+
+- http://specificity.keegan.st/
+- https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity
+
+For more challenge, try using gradients!
+- https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Using_CSS_gradients
+
+Want to change more about how it looks? See the full list of
+SVG Presentation Attributes:
+
+- https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute#Presentation_attributes
+
+*/
+
+.avatar {
+    /* this sets default styles for everything in the avatar group */
+    stroke-width: 5;
+    fill: white;
+    stroke: black;
+}
+
+.body {
+    /* Your code here! 
+	 * Examples of how to set colors:
+	fill: red;
+	fill: rgb(243, 191, 189);
+	fill: rgba(243, 191, 189, 0.5);
+    fill: hsl(180, 70%, 50%);
+    
+    * You can even change the color and style of the line! Examples:
+	stroke: #FFF000;
+    stroke-width: 1;
+	*/
+    fill: #FFFFFF;
+}
+
+.eye {
+}
+
+.arm {
+}
+
+.shoe {
+}
+
+.left {
+}
+
+.right {
+}
+
+#head {
+
+}
+
+#right-eye {
+}
+
+#left-eye {
+}
+
+#neck {
+}
+
+#shirt {
+}
+
+#cape {
+}
+
+#mouth {
+}
+
+#pants {
+}
+
+#left-arm {
+}
+
+#right-arm {
+}
+
+#left-shoe {
+}
+
+#right-shoe {
+}

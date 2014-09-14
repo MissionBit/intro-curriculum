@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="115px" height="122px" viewBox="0 0 115 122" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>mbit-logo</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="missionbit_logo_horizontal" sketch:type="MSLayerGroup" transform="translate(1.000000, 1.000000)">
+            <path d="M56.906,11.922 L20.184,32.898 L20,75.176 L56.52,96.496 L93.242,75.5 L93.426,33.223 L56.906,11.922 Z M88.418,37.902 L88.418,73.148 L70.039,83.281 L70.039,57.055 L56.684,64.312 L43.387,57.219 L43.387,83.281 L25.004,73.148 L25.004,38.227 L56.359,54.926 L56.398,54.848 L56.438,54.926 L88.418,37.902 Z" id="Fill-4" fill="#424242" sketch:type="MSShapeGroup"></path>
+            <path d="M59.715,9.66 L76.207,-0.07 L113.445,20.957 L113.836,63.711 L97.426,73.395 L97.023,30.727" id="Fill-5" fill="#DC139C" sketch:type="MSShapeGroup"></path>
+            <path d="M53.711,9.66 L37.219,-0.07 L-0.02,20.957 L-0.414,63.711 L16,73.395 L16.402,30.727" id="Fill-6" fill="#FB8B00" sketch:type="MSShapeGroup"></path>
+            <path d="M19.652,79.664 L19.719,98.812 L56.824,120.07 L93.773,98.555 L93.707,79.5 L56.828,100.961" id="Fill-7" fill="#0169C9" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

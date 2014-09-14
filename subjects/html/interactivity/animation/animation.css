@@ -1,0 +1,61 @@
+/*
+
+More information about transforms and transitions:
+
+CSS transforms:
+* https://developer.mozilla.org/en-US/docs/Web/CSS/transform
+
+CSS transitions:
+* https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Using_CSS_transitions
+
+*/
+
+.clickable {
+    cursor: pointer;
+    transition: 2s;
+}
+
+.box-1.clickable {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+.box-1.clicked {
+    background-color: aquamarine;
+    transform: rotate(360deg);
+}
+
+.box-2.clickable {
+    width: 200px;
+    height: 200px;
+    background-color: #cccccc;
+}
+
+.box-2.clicked {
+    transform: rotate3d(-1, -1, 0, 720deg);
+    background-color: #333333;
+    transition: 4s;
+}
+
+h1.clickable {
+    transition: color 2s, margin-left 1s;
+    color: blue;
+}
+h1.clicked {
+    color: red;
+    margin-left: 100px;
+}
+
+.logo.clickable {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    margin-left: -300px;
+    margin-top: -300px;
+    left: 100%;
+    top: 300px;
+}
+
+.logo.clicked {
+    top: 100%;
+}

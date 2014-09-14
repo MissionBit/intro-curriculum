@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<head>
+    <title>Dice!</title>
+    <link rel="stylesheet" href="dice.css">
+</head>
+<body>
+    <div class="game">
+        <header>
+            <h1>Click to roll the dice!</h1>
+            <h2>Score: <span class="score"></span></h2>
+        </header>
+        <ul class="dice">
+            <li class="die" data-roll="1"></li>
+            <li class="die" data-roll="2"></li>
+            <li class="die" data-roll="3"></li>
+            <li class="die" data-roll="4"></li>
+            <li class="die" data-roll="5"></li>
+            <li class="die" data-roll="6"></li>
+        </ul>
+        <nav class="buttons">
+            <button class="roll">Roll</button>
+            <button class="play-again">Play Again</button>
+        </nav>
+        <footer>
+            In order to qualify, you must hold a 1 and a 4. This may be done on any roll. Your score is the total of the other four dice, or zero if you did not qualify. You must hold at least one die after each roll.
+        </footer>
+    </div>
+    <script src="jquery-2.1.0.js"></script>
+    <script src="dice.js"></script>
+</body>
+</html>

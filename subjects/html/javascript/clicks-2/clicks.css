@@ -1,0 +1,20 @@
+h1.clicked {
+    color: darksalmon;
+}
+.hide {
+    opacity: 0;
+}
+.clicked {
+    transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+}
+img.logo {
+    transition: 1s;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 128px;
+    height: 128px;
+    margin-left: -64px;
+    margin-top: -64px;
+}

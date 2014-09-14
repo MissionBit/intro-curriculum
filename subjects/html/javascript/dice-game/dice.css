@@ -1,0 +1,111 @@
+body {
+    background: linear-gradient(to top, green, black);
+    height: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    color: white;
+}
+
+div.game {
+    position: absolute;
+    padding: 0;
+    left: 0;
+    top: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+footer {
+    padding-top: 2em;
+}
+
+h1 {
+    margin: auto;
+    font-size: 80px;
+    -webkit-user-select: none;
+}
+
+nav.buttons {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    text-align: center;
+}
+
+nav.buttons button {
+    font-size: 80px;
+}
+
+ul.dice {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+.die:hover {
+    cursor: default;
+}
+
+.die.selectable:hover {
+    background-color: rgba(255,255,255,0.2);
+    cursor: pointer;
+}
+
+.die.hold {
+    opacity: 0.8;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.die.selectable.hold {
+    background-color: rgba(255,255,255,0.4);
+}
+
+.score.invalid::after {
+    content: " (need to qualify with a 1 and 4)"
+}
+
+.die[data-roll="1"]::before {
+    content: "\2680";
+}
+.die[data-roll="2"]::before {
+    content: "\2681";
+}
+.die[data-roll="3"]::before {
+    content: "\2682";
+}
+.die[data-roll="4"]::before {
+    content: "\2683";
+}
+.die[data-roll="5"]::before {
+    content: "\2684";
+}
+.die[data-roll="6"]::before {
+    content: "\2685";
+}
+
+.hide {
+    display: none;
+}
+
+.die {
+    -webkit-user-select: none;
+    display: inline-flex;
+    flex: 1 1 auto;
+    padding-bottom: 0.125em;
+    justify-content: center;
+    align-self: auto;
+    font-size: 200px;
+    color: white;
+}
