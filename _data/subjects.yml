@@ -6,6 +6,8 @@
   name: Interactivity with JavaScript
 - slug: canvas
   name: Canvas and Drawing
+- slug: gamedesign
+  name: Game Design
 - slug: phaser
   name: Game Development with Phaser
 - slug: api
