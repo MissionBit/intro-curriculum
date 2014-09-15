@@ -1,4 +1,5 @@
 ---
+title: Game Design
 ---
 Fundamental Game Components
 ===========================
@@ -127,6 +128,7 @@ These game development blogs have a mix of traditional essay-style blog posts, a
 
 
 The [Ludum Dare](http://www.ludumdare.com/compo/rules/) is a popular 48 hour game hackathon that takes place a couple times every year. The competition has created some cool games and encourages participants to document their process, so there's a lot of very well written and detailed journals that you can use as inspiration for your game and also for your blog. Try playing some of the games and look through the journal to see what the developers did to make it happen!
+
 *  [Ripple Runner](http://www.ludumdare.com/compo/ludum-dare-29/?action=preview&uid=7285) - [journal](http://www.ludumdare.com/compo/category/ld-29/?author_name=ddrkirbyisq)
 *  [ESCAPE](http://www.ludumdare.com/compo/ludum-dare-21/?uid=4336) - [journal](http://www.ludumdare.com/compo/category/ld-21/?author_name=schonstal)
 *  [Diamond Hollow](http://www.ludumdare.com/compo/ludum-dare-20/?action=preview&uid=4155) - [journal](http://www.ludumdare.com/compo/category/ld-20/?author_name=arkeus)
