@@ -3,6 +3,21 @@ title: Setup and Introduction
 subject: setup
 ---
 
+# Week 1 Checklist
+
+* Introduce the students to the class
+* Assign the students to computers
+* Set up a student account on each computer
+* Download Chrome, Brackets, GitHub
+* "Remix" a website with Chrome's developer tools, take screenshot
+* Set up GitHub account
+* Have students post selfie to rollcall issue
+* Have them verify email address with GitHub
+* Collect information from students (github username, computer name, etc.)
+* Add students to a GitHub team for the class
+* Create USERNAME.github.io repository
+* Publish remix image and index.html with image to their repository
+
 Intro
 =====
 
