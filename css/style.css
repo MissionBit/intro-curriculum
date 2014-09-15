@@ -53,11 +53,11 @@ nav {
     font-family: 'SourceCodeProSemiBold', sans-serif;
 }
 
-.section {
+.curriculum {
     font-size: 120%;
 }
 
-.section ul {
+.curriculum ul {
     padding-left: 0;
     list-style-position: inside;
 }
