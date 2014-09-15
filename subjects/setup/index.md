@@ -15,6 +15,12 @@ subject: setup
 * [Create USERNAME.github.io repository](#making-a-repository)
 * [Publish remix image and index.html with remixed website screenshot to their repository](#above-and-beyond)
 
+# Example
+
+An example of this can be seen in the [fall-2014-intro-mission-mw](https://github.com/MissionBit/fall-2014-intro-mission-mw) repo.
+
+Instructions for students derived from this are in the repo's [wiki](https://github.com/MissionBit/fall-2014-intro-mission-mw/wiki).
+
 Intro
 =====
 
@@ -175,9 +181,18 @@ there privately, you can apply to have your account upgraded for free at
 Intro Survey
 ============
 
-STANDARD SURVEY TBD
+For an example survey, see: [Intro Questionnaire](http://bit.ly/plzsendcookies)
 
-Add students to GitHub team as survey results come in.
+Here are the questions:
+
+* What is your rollcall.in username?
+* What is your github username?
+* Have you tried programming before? If so, what have you tried? *It's totally ok if you haven't, but this will help us keep the class interesting for everyone*
+* What made you sign up for this class?
+* Are there any cool apps/games/sites that you really like?
+* Tell me a joke. *the cornier the better*
+
+Add students to a GitHub team for your class as survey results come in. This is easy to do if you use Google Docs to create the spreadsheet.
 
 
 Roll Call
