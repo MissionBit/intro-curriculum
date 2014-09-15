@@ -1,5 +1,6 @@
 ---
 title: Setup and Introduction
+subject: setup
 ---
 
 Intro
@@ -139,13 +140,6 @@ window. This should put a screenshot on your desktop. Go to
 http://imgur.com/ ("imager") and upload the screenshot and come up
 to the board and write the URL down so we can all check it out!
 
-> The students really loved this exercise, so much so that at least
-> two thirds of the class decided to keep working on it during the
-> break!
-> We did not get to the imgur part. I'm going to repeat this exercise
-> in day 2 with a little more demonstration, and we'll upload the
-> screenshots to their GitHub pages repos instead.
-
 GitHub
 ======
 
@@ -171,10 +165,6 @@ After you verify your email address there will be an option to
 If you end up enjoying GitHub and want to keep some of your schoolwork
 there privately, you can apply to have your account upgraded for free at
 https://education.github.com/
-
-> Nobody asked about the privacy/email issues so I didn't cover it. I
-> also didn't cover anything about education.github.io. This seemed
-> like a topic best left for later in the semester.
 
 Intro Survey
 ============

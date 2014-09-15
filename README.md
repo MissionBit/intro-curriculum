@@ -39,31 +39,24 @@ You will have to reload the pages in your browser to see the changes.
 
 To make a page on the site use the template, they need to have
 what's called [YAML Front Matter]. A very small example page would
-look like this:
+look like this (you can also use html, with the same front matter):
 
-*minimal-page-example.html*
+*minimal-page-example.md*
 ```html
 ---
-title: "Minimal Page Example"
+title: Minimal Page Example
+subject: setup
 ---
-<!-- The above block between two lines of three hypens is the YAML front matter! -->
-<div class="homepage-image img-anim-group-1">
-    <!-- This is the big image -->
-</div>
 
-<!-- container -->
-<div class="container" role="main">
-    <div class="page-head">
-        <!-- This is the blue section on top of the big image -->
-        <span>Free Coding Classes for Public School Students</span>
-    </div>
+# This is a markdown title
 
-    <div class="section">
-        <!-- Here's the main content of the page -->
-        <div class="headline"><h2>This is a headline</h2></div>
-        <p>Here's some content</p>
-    </div>
-</div>
+* This is
+* an unordered list
+
+And this is
+a paragraph.
+
+Here's another paragraph.
 ```
 
 [Jekyll]: http://jekyllrb.com/

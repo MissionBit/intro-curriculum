@@ -16,6 +16,11 @@
                 <li class="menu-item menu-intro-web">
                     <a href="{{ base_url }}/">Intro Web</a>
                 </li>
+                {% for subject in site.data.subjects %}{% if subject.slug == page.subject %}
+                <li class="menu-item menu-{{ subject.slug }}">
+                    <a href="{{ base_url }}/subjects/{{ subject.slug }}/">{{ subject.name }}</a>
+                </li>
+                {% endif %}{% endfor %}
                 <li class="menu-item menu-intro-github visible-xs">
                     <a href="{{ repository_url }}">GitHub Repository</a>
                 </li>

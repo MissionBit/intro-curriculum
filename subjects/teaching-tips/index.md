@@ -1,7 +1,7 @@
 ---
 title: Teaching Tips
+subject: teaching-tips
 ---
-<div class="headline"><h2>Teaching Tips</h2></div>
 
 Here are some guiding principles for how we like to think about teaching and learning. They’re not meant to be definitive or comprehensive by any means, just useful little nuggets to orient you. Ultimately, every student has different needs, and you should take those needs into account.
         
