@@ -119,14 +119,6 @@ and put it in your Applications folder and dock.
 
 [brackets.io](http://brackets.io/)
 
-When you open up Brackets you may get an error that it's an unsigned
-application. If you get this error, open System Preferences, go to
-Security & Privacy, and click "Open Anyway". The next time you open
-Brackets it should work.
-
-> This took up some time. Hopefully Brackets will start signing their
-> app soon!
-
 "Remixing" Websites
 ===================
 
