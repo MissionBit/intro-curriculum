@@ -57,7 +57,7 @@ nav {
     font-size: 120%;
 }
 
-.curriculum ul {
+.curriculum > ul, .curriculum > ol {
     padding-left: 0;
     list-style-position: inside;
 }
