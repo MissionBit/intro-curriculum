@@ -1,3 +1,8 @@
+---
+title: Starting JavaScript (2)
+subject: javascript
+---
+
 # Javascript (clicks)
 
 HTML is about structure, CSS is about presentation, and Javascript is

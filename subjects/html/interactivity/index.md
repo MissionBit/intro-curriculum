@@ -1,3 +1,8 @@
+---
+title: Interactivity with JavaScript
+subject: html
+---
+
 # GitHub Pages
 
 Have students test their index page on GitHub to make sure it's

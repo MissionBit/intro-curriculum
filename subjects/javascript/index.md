@@ -1,3 +1,11 @@
+---
+title: Starting JavaScript
+subject: javascript
+---
+
+* [Part 2](index2.html)
+* [Part 3](index3.html)
+
 # Project Choose Your Own Adventure (cont 2)
 
 Using anchor tags, build a choose your own adventure story.

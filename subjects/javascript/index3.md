@@ -1,3 +1,8 @@
+---
+title: Starting JavaScript (3)
+subject: javascript
+---
+
 # CSS
 
 ## CSS Jargon
