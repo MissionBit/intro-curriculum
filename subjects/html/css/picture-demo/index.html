@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CSS and dogs</title>
+        <link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Shadows+Into+Light' rel='stylesheet' type='text/css'>
+        <style>
+            body {
+                background-color: lightgray;
+            }
+            img {
+                max-width: 50%;
+            }
+            .photos {
+                text-align: center;
+                border-top: 2px solid;
+                margin-top: 2em;
+            }
+            .both-on-rug img {
+                max-width: 40%;
+                vertical-align: middle;
+            }
+            .photos h2 {
+                font-size: 28px;
+                text-shadow: #999999 -2px 2px 8px;
+            }
+            header {
+                text-align: center;
+                font-size: 200%;
+            }
+            footer {
+                text-align: center;
+                font-size: 75%;
+                margin-top: 10em;
+            }
+            header h1 {
+                font-family: 'Lobster', cursive;
+            }
+            header h2 {
+                font-family: 'Shadows Into Light', cursive;
+                transform: rotateZ(5deg);
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <h1>Dogs!</h1>
+            <h2>Because the internet already has cats.</h2>
+        </header>
+        <div class="photos both-on-rug">
+            <h2>Ramsey &amp; Izzy on the rug</h2>
+            <img src="ramsey-izzy-rug.jpg" alt="Ramsey &amp; Izzy on the rug">
+            <img src="ramsey-izzy-rug-2.jpg" alt="Ramsey &amp; Izzy on the rug again">
+        </div>
+        <div class="photos">
+            <h2>Ramsey relaxing</h2>
+            <img src="ramsey-rug.jpg" alt="Ramsey relaxing">
+        </div>
+        <div class="photos">
+            <h2>Izzy relaxing</h2>
+            <img src="izzy-floor.jpg" alt="Izzy relaxing">
+        </div>
+        <div class="photos">
+            <h2>Izzy helping set up Mission Bit laptops</h2>
+            <img src="izzy-laptops.jpg" alt="Izzy helping set up Mission Bit laptops">
+        </div>
+        <footer>
+            No animals were harmed in the making of this web page.
+        </footer>
+    </body>
+</html>
